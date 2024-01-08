@@ -1,0 +1,46 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.cainiao_lowcode
+.idea
+*.iws
+*.iml
+*.ipr
+application.pid
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+tp-trc-business-base/src/main/resources/rebel.xml
+tp-trc-business-web/src/main/resources/rebel.xml
+tp-trc-business-client/src/main/resources/rebel.xml
+tp-trc-business-core/src/main/resources/rebel.xml
+tp-trc-business-base/resolvedPom.xml
+tp-trc-business-client/resolvedPom.xml
+tp-trc-business-core/resolvedPom.xml
+tp-trc-business-web/resolvedPom.xml
+resolvedPom.xml
+
+*/.DS_Store
+*/*.rebel.xml
+*/*/*/*/rebel.xml
+*.rebel.xml
+*/*/*/*/rebel.xml
+
+
+velocity.log
+
+.DS_Store
